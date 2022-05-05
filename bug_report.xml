@@ -1,6 +1,5 @@
-
 <?xml version="1.0" encoding="UTF-8" ?>
-<bugs>
+<root>
   <Severity>HIGH (High/Medium/Low) or 1</Severity>
   <Priority>HIGH (High/Medium/Low) or 1</Priority>
   <Reason>Defect</Reason>
@@ -22,4 +21,4 @@
   <Steps_to_Reproduce>See the attached logs for more information (Attach more logs related to the bug..IF any)</Steps_to_Reproduce>
   <Steps_to_Reproduce>Also see the attached screenshot of the error page</Steps_to_Reproduce>
   <Expected_Result>On clicking the SAVE button, you should be prompted to a successful message “New User has been created successfully”.</Expected_Result>
-</bugs>
+</root>

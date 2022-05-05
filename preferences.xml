@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<preferences>
+<root>
   <favorite_movie>Fight Club</favorite_movie>
   <favorite_show>Silicon Valley</favorite_show>
   <favorite_food>stew</favorite_food>
   <favourite_season>late spring</favourite_season>
   <country_to_visit>Egypt</country_to_visit>
-</preferences>
+</root>

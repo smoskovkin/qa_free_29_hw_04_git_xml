@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<skills>
+<root>
   <skills_to_be_studied>Linux terminal</skills_to_be_studied>
   <skills_to_be_studied>JavaScript</skills_to_be_studied>
   <skills_to_be_studied>Python</skills_to_be_studied>
@@ -10,4 +10,4 @@
   <skills_to_be_studied>JSON, XML, CSV</skills_to_be_studied>
   <skills_to_be_studied>GIT</skills_to_be_studied>
   <skills_to_be_studied>DevTools</skills_to_be_studied>
-</skills>
+</root>

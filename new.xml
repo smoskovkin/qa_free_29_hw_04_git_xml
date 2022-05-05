@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<persons>
+<root>
   <firstname>Ivan</firstname>
   <lastname>Ivanov</lastname>
   <age>23</age>
   <pets_count>2</pets_count>
   <desired_salary>1000</desired_salary>
-</persons>
+</root>
