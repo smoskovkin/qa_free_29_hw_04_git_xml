@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<skills>
+  <skills_to_be_studied>Linux terminal</skills_to_be_studied>
+  <skills_to_be_studied>JavaScript</skills_to_be_studied>
+  <skills_to_be_studied>Python</skills_to_be_studied>
+  <skills_to_be_studied>Postman</skills_to_be_studied>
+  <skills_to_be_studied>Charles</skills_to_be_studied>
+  <skills_to_be_studied>Fiddler</skills_to_be_studied>
+  <skills_to_be_studied>SQL</skills_to_be_studied>
+  <skills_to_be_studied>JSON, XML, CSV</skills_to_be_studied>
+  <skills_to_be_studied>GIT</skills_to_be_studied>
+  <skills_to_be_studied>DevTools</skills_to_be_studied>
+</skills>
